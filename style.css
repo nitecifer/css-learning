@@ -1,0 +1,87 @@
+h1{
+    text-align:centre;
+    text-decoration:underline;
+    text-decoration-style:dashed;
+    text-transform:capitalize;
+}
+
+a{
+    text-decoration:dashed;
+}
+
+h2{
+    font-weight:normal ;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+H3{
+    font-size:20px;
+    line-height:50px;
+}
+
+
+
+
+
+.myclass{
+    color: red;
+}
+
+.h3,h4,h5{
+    color: red;
+}
+
+button{ 
+      background-color:blue;
+}
+
+#three{
+    font-family:"times new roman";
+}
+
+
+
+
+#one{
+
+    color: red;
+}
+
+p{
+    color: rgb(80, 50, 168);
+}
+
+#two{
+color: green;
+}
+
+
+#three{
+    color: green;
+    }
+
+#four{
+        color: green;
+        }
+
+        body{
+            background-color: white;
+        }
+
+#box{
+    background-color:blue;
+}
+
+#priya{
+    color: red;
+    text-align:centre;
+    text-transform:capitalize;
+}
+
+#outer{
+    font-size:25px;
+    
+}
+
+#inner{
+    font-size: 10px;
+}
