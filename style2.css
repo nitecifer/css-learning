@@ -26,3 +26,35 @@ a{
 button{
     background-color:green;
 }
+footer{
+    color:black;
+    height:100px;
+    text-align: center;
+}
+#box1{
+    background-color: pink;
+    height: 100px;
+    width:100px;
+    border:3px solid black;
+    background-image:url("c:\Users\NITISH GUPTA\Downloads\image.jpg.jpg");
+    background-size: cover;
+    
+}
+#box2{
+    background-color: red;
+    height: 100px;
+    width:100px;
+    border:3px solid black;
+}
+#box3{
+    background-color: blue;
+    height: 100px;
+    width:100px;
+    border:3px solid black;
+}
+#box1,#box2,#box3{
+    display:inline-block;
+    margin: 30px 30px 30px 30px;
+    padding: 20px 20px 20px 20px;
+}
+
