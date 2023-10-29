@@ -39,7 +39,7 @@ div
     width: 33%;
     height: 10vh;
     font-size: 2em;
-}*/
+}
 div{
     width: 100px;
     height: 100px;
@@ -61,8 +61,35 @@ div{
     position: absolute;
     bottom: 20px;
     left: 100px;
+    
 }
 #box4{
     position: fixed;
     bottom: 30px;
+    left: 29px;
+    z-index: 3;
+}*/
+div
+{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+#box1 {
+    background-image: url("nature_image.jpg");
+    background-size: cover;
+}
+#box2 {
+    background-image: url("model_image.jpg.jpg") ;
+    background-size: contain;
+}
+#box3 {
+    background-image: url("image_x.jpg.jpg") ;
+    background-size: auto;
+}
+#box4 {
+    background-image: url("goodthings.jpg.jpg") ;
+    background-size: cover;
 }
