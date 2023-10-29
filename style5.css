@@ -1,4 +1,4 @@
-*{
+/**{
     padding: 0;
     margin: o;
     color: white;
@@ -27,4 +27,42 @@ div
 {
     height: 100px;
     width: 100px;
+}
+#box1{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    font-size: 20px;
+}
+#box2{
+    background-color: pink;
+    width: 33%;
+    height: 10vh;
+    font-size: 2em;
+}*/
+div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#box1
+{
+    position: static;
+    top: 10px;
+}
+#box2{
+    position: relative;
+    top: 20px;
+}
+#box3{
+    position: absolute;
+    bottom: 20px;
+    left: 100px;
+}
+#box4{
+    position: fixed;
+    bottom: 30px;
 }
