@@ -1,6 +1,6 @@
 /*{
-    padding: 0;
-    margin: o;
+    padding: 0px;
+    margin: 0px;
     color: white;
 }
 #navbar{
@@ -100,7 +100,7 @@ div{
     background-size: cover;
     position: absolute;
     right: 0px;
-    top: 50px;}
+    top: 50px;}*/
 .navbar{
     background-color: pink;
     display: flex;
@@ -138,20 +138,6 @@ div{
     div{
         background-color: blue;
     }
-}*/
-div{
-    width: 200px;
-    height: 200px;
-    background-color: pink;
-    border: 2px;
-    transition-property: all;
-    transition-duration: 2s;
-}
-div:hover{
-    background-color: red;
-    color: white;
-    font-size: 20px;
-
 }
 
 
